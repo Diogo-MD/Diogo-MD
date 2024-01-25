@@ -15,26 +15,36 @@
 <br><hr>
    <div align="center">
      
-### Linguagens:
-    
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<div style="display: inline_block" style="line height:" 5.5"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" heigth="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50" />
-    </div>
-     <hr>
-     <div align="center">
-<br><p align="centre"><b>Visitors Count:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Diogo-MD}/count.svg" /></p> 
+### Linguagens :
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+  </a>
+</p>
+<hr>
+
+### Ferramentas :
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
+    <img src="https://skillicons.dev/icons?i=xd,figma,vscode,git" />
+  </a>
+</p><hr>
+
+### Contato :
+
+<p align="center">
+  <a href=""><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="mailto:diogomdossantos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.linkedin.com/in/diogo-madeira-852330278/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p><hr>
+
+
+### Visitors Count :
+<div align="center">
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Diogo-MD}/count.svg"/></p>
 </div>
 
-### Studying in this moment:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66B5CE&height=110&section=footer"/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-<br>
-  <hr>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66B5CE&height=120&section=footer"/>
