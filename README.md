@@ -36,6 +36,9 @@
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p><hr>
 
+### Visitors Count :
+<div align="center">
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Diogo-MD}/count.svg"/></p>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66B5CE&height=110&section=footer"/>
-
