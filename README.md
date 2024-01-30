@@ -25,14 +25,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
-    <img src="https://skillicons.dev/icons?i=xd,figma,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=xd,figma,vscode,git"/>
   </a>
 </p><hr>
 
 ### Contato :
 
 <p align="center">
-  <a href=""><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="https://discordapp.com/users/439568675490496514"><img src="https://skillicons.dev/icons?i=discord"/></a>
   <a href="mailto:diogomdossantos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p><hr>
