@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,sass,html,css,mysql&perline=3" />
   </a>
 </p>
 <hr>
