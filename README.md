@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
-    <img src="https://skillicons.dev/icons?i=js,ts,sass,html,css,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,ts,sass,html,css,mysql,jquery&perline=3" />
   </a>
 </p>
 <hr>
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
-    <img src="https://skillicons.dev/icons?i=xd,figma,vscode,git"/>
+    <img src="https://skillicons.dev/icons?i=xd,figma,vscode,git,bash,githubactions,nodejs&perline=3"/>
   </a>
 </p><hr>
 
