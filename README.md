@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
-    <img src="https://skillicons.dev/icons?i=bootstrap,git,bash,xd,githubactions,github,figma,vscode,nodejs,jquery&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,git,bash,xd,githubactions,github,figma,vscode,nodejs,jquery,linux,npm,react&perline=3"/>
   </a>
 </p><hr>
 
