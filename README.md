@@ -9,10 +9,33 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-MD&layout=compact&hide_border=true&title_color=44FF00&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
-<br><hr>
-   <div align="center">
-     
-### Linguagens :
+# Hi there! 👋 I'm Diogo Madeira
+
+I'm an enthusiastic **IT Professional** from São Paulo, Brazil, with a passion for technology and continuous learning. I’m currently expanding my skills in web development, backend, and server management, and I’m actively seeking an opportunity to make impactful contributions to the field.
+
+## 🚀 About Me
+
+- 🌍 Based in São Paulo, Brazil
+- 🎯 Driven by a desire to develop my technical expertise and support team growth
+- 👨‍🎓 Completed Technical Training in IT for the Web at SENAC
+- 💼 Experience in tech support and server maintenance
+
+---
+
+## 🌐 Languages
+
+- **Portuguese**: Native
+- **English**: Basic
+- **Spanish**: Basic
+
+---
+
+Feel free to explore my repositories and connect! I'm excited to collaborate and learn together.
+
+---
+<div align="center"> 
+
+<h3>Languages :</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
@@ -21,20 +44,24 @@
 </p>
 <hr>
 
-### Ferramentas :
+<h3>Tools :</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
     <img src="https://skillicons.dev/icons?i=bootstrap,git,bash,xd,githubactions,github,figma,vscode,nodejs,jquery,linux,npm,react&perline=3"/>
   </a>
-</p><hr>
+</p>
+<hr>
 
-### Contato :
+<h3>Contact :</h3>
 
 <p align="center">
   <a href="https://discordapp.com/users/439568675490496514"><img src="https://skillicons.dev/icons?i=discord"/></a>
   <a href="mailto:diogomdossantos@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p><hr>
+</p>
+<hr>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=171F2AFF&height=110&section=footer"/>
