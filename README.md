@@ -25,7 +25,7 @@ I'm an enthusiastic **IT Professional** from São Paulo, Brazil, with a passion 
 ## 🌐 Languages
 
 - **Portuguese**: Native
-- **English**: Basic
+- **English**: Intermediary
 - **Spanish**: Basic
 
 ---
