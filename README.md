@@ -39,7 +39,7 @@ Feel free to explore my repositories and connect! I'm excited to collaborate and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-madeira-852330278/">
-    <img src="https://skillicons.dev/icons?i=js,ts,sass,html,css,php,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,ts,sass,html,css,php,cs,mysql&perline=3" />
   </a>
 </p>
 <hr>
